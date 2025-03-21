@@ -1,5 +1,17 @@
 # viem
 
+## 2.23.14
+
+### Patch Changes
+
+- [#3471](https://github.com/wevm/viem/pull/3471) [`68c3ab7c38d0533a4d4a9c260a5e914a82f1ac03`](https://github.com/wevm/viem/commit/68c3ab7c38d0533a4d4a9c260a5e914a82f1ac03) Thanks [@GuillermoEscobero](https://github.com/GuillermoEscobero)! - Added Garfield Testnet, added primary RPCs for Zircuit Mainnet and legacy Testnet
+
+- [#3479](https://github.com/wevm/viem/pull/3479) [`7765eec035995f5ea474aa6394b7f8c38987978e`](https://github.com/wevm/viem/commit/7765eec035995f5ea474aa6394b7f8c38987978e) Thanks [@Volchunovich](https://github.com/Volchunovich)! - Added Hoodi Testnet.
+
+- [#3481](https://github.com/wevm/viem/pull/3481) [`e3ac382801897615e45a11d095d390d205511edf`](https://github.com/wevm/viem/commit/e3ac382801897615e45a11d095d390d205511edf) Thanks [@Pochetes](https://github.com/Pochetes)! - Added multicall3 contract to Sonic Blaze Testnet.
+
+- [#3482](https://github.com/wevm/viem/pull/3482) [`60dbabe8c84a263aef166c969e8062fd1bed89f3`](https://github.com/wevm/viem/commit/60dbabe8c84a263aef166c969e8062fd1bed89f3) Thanks [@falcoda](https://github.com/falcoda)! - Add Socotra JUNE-Chain definition
+
 ## 2.23.13
 
 ### Patch Changes
