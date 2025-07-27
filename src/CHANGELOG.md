@@ -1,5 +1,13 @@
 # viem
 
+## 2.33.2
+
+### Patch Changes
+
+- [#3817](https://github.com/wevm/viem/pull/3817) [`2fa22da5fc5f961f94cdd971e62116c468f98fc9`](https://github.com/wevm/viem/commit/2fa22da5fc5f961f94cdd971e62116c468f98fc9) Thanks [@coffeexcoin](https://github.com/coffeexcoin)! - **ZKsync**: Added `getGasPerPubdata` Action.
+
+- [#3806](https://github.com/wevm/viem/pull/3806) [`d3ef08ec85ff17db53144b4bb9a7bab6a9e71558`](https://github.com/wevm/viem/commit/d3ef08ec85ff17db53144b4bb9a7bab6a9e71558) Thanks [@jeanregisser](https://github.com/jeanregisser)! - **Account Abstraction**: Added `toUserOperation` utility to convert `PackedUserOperation` to `UserOperation`.
+
 ## 2.33.1
 
 ### Patch Changes
